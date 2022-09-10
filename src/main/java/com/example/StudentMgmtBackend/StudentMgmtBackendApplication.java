@@ -1,4 +1,4 @@
-package com.example.studentmgmtbackend;
+package com.example.StudentMgmtBackend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
